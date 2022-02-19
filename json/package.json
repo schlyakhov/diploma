@@ -1,0 +1,17 @@
+{
+  "name": "laslesvpn",
+  "version": "1.0.0",
+  "description": "LaslesVpn - diploma project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "javascript",
+    "laslesvpn",
+    "sass"
+  ],
+  "author": "schlyakhov <dan.schlyakhov@gmail.com>",
+  "license": "ISC"
+}
